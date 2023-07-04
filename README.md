@@ -4,17 +4,17 @@
 
 
 <p align="center">
-  <img alt="Preview App" src=".github/" width="100%">
+  <img alt="Preview App" src="survey_form.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with:
 
 - HTML
 - CSS 
 
-## 💻 Projeto
+## 💻 Project
 
 Survey form to collect data from your users.
 
@@ -22,5 +22,5 @@ Survey form to collect data from your users.
 
 No Copyright :wave: by https://www.freecodecamp.org
 
-- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/survey_form)
+- [Access the finished project, online](https://rodrigocccesar.github.io/survey_form)
 
